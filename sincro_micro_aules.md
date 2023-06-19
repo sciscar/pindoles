@@ -30,3 +30,28 @@ Per poder connectar hem de clickar a  l'enllaç corresponent.
 
 ![](./images_sincro/premer_connecta.jpeg)
 
+Ara configurrem la connexió.
+
+![](./images_sincro/configuracio.png)
+
+Acte seguit s'ha d'enllaçar el compte. 
+
+![](./images_sincro/connecta.jpeg)
+
+
+### 3.1. Validació i connexió persistent
+
+Ens identifiquem en les dades del conter de gva i decidim si volem que la connexió quede oberta.
+
+![](./images_sincro/identificar.png)
+
+### 3.2 Comprovar que ha sigut un éxit.
+
+Podem comprovar que la connexió a sigut un éxit en la barra de lateral. 
+![](./images_sincro/exit_1.jpeg)
+
+## 4. Vista de les ferramentes al panell
+
+Ara veiem els enllaços a les ferramentes d'aules.
+
+![](./images_sincro/exit_2.jpeg)
