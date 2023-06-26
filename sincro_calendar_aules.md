@@ -1,0 +1,1 @@
+## Sincronitzar events d'aules amb 
