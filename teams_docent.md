@@ -2,8 +2,8 @@
 
 ![](/images_teams_docent/primera.png)
 
-![](/images_teams_docent/segona.png)
+![](/images_teams_docent/segona_1.png)
 
-![](/images_teams_docent/tercera.png)
+![](/images_teams_docent/tercera_1.png)
 
-![](/images_teams_docent/cuarta.png)
+![](/images_teams_docent/cuarta_1.png)
