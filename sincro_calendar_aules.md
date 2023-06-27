@@ -5,3 +5,5 @@
 ![](/images_sincro_calendar_aules/configuracio_sincro.png)
 
 ![](/images_sincro_calendar_aules/sincro.png)
+
+![](/images_sincro_calendar_aules/triar.png)
